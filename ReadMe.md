@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello There,
 I am a Software & Informatics Engineer with a strong focus on Artificial Intelligence, Computer Vision, and Cybersecurity. I enjoy building systems that bridge the gap between complex data and real-world applications, from sign language translation models to secure network auditing.<br><br>Currently, I am expanding my expertise in Deep Learning architectures and Ethical Hacking, while maintaining a workflow centered around Linux environments and high-performance development stacks.
 
 
